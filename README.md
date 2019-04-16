@@ -15,6 +15,11 @@ A minute book and a great way to share our work. We can share single files, part
 
 'Cause I got issues, But you got 'em too, So give 'em all to me, And I'll give mine to you!
 
+Please visit [issues](https://github.com/suhao/issues) to get the issues of mine.
+
+
+<br/><br/><br/>
+
 欢迎通过[wiki](https://github.com/suhao/awesome/wiki)和[issues](https://github.com/suhao/awesome/issues/1)来浏览最新研究的项目、技术和关注的开源软件，您也可以在[issues](https://github.com/suhao/awesome/issues)中反馈相关问题。
 
 
